@@ -1,6 +1,6 @@
 ---
 layout: post
-title: サンプルポスト
+title: こんにちは
 tags: [test]
 comments: true
 author: 岩田康明
